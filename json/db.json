@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "username": "admin2",
+      "email": "great.jaggi@gmail.com",
+      "password": "Admin@",
+      "phone": "0481924824",
+      "token": 469838,
+      "isVerified": true,
+      "role": true,
+      "imgProfile": "profilepicture/default.png",
+      "id": 1
+    }
+  ]
+}
